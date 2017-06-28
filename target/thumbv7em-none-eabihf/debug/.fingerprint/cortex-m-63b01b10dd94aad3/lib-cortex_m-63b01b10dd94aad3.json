@@ -1,0 +1,1 @@
+{"rustc":17148454423725868386,"features":"[]","target":15760362082642490393,"profile":731176819336294830,"deps":[["aligned v0.1.1",314261410905126325],["cortex-m-semihosting v0.1.3",16722385338015514542],["volatile-register v0.2.0",1916712094539328200]],"local":{"Precalculated":"0.2.9"},"rustflags":["--sysroot","/home/evan/.xargo"]}

@@ -1,0 +1,8 @@
+[package]
+authors = ["Evan Yand <evanyand@gmail.com>"]
+name = "stm32f446"
+version = "0.1.0"
+
+[dependencies]
+cortex-m = "0.2.6"
+vcell = "0.1.0"
